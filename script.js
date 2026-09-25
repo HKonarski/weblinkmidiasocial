@@ -7,6 +7,6 @@ function toggleMode() {
 
     img.setAttribute(
         'src',
-        isLightMode ? './assets/Avantar.jpg' : './assets/Bushido1.png'
+        isLightMode ? './assets/Avatar.jpg' : './assets/Bushido1.png'
     );
 }

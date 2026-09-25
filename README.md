@@ -11,7 +11,6 @@ Um template simples, leve e personalizável para criar sua própria "página de 
 - 🔗 Lista de links personalizável para seus perfis
 - 🧩 Ícones de redes sociais com [Ionicons](https://ionic.io/ionicons)
 - 🎨 Fácil de customizar cores, fontes e imagens via CSS
-- ⚡ Sem dependências de build — HTML, CSS e JS puros
 
 ## 📁 Estrutura do projeto
 
@@ -44,7 +43,7 @@ Um template simples, leve e personalizável para criar sua própria "página de 
 ### 1. Foto de perfil e nome de usuário
 No `index.html`, dentro da `div#profile`, troque a imagem e o texto:
 ```html
-<img src="assets/Avantar.jpg" alt="Foto de perfil">
+<img src="assets/Avatar.jpg" alt="Foto de perfil">
 <p>@SeuUsuario</p>
 ```
 
