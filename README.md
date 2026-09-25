@@ -98,7 +98,7 @@ O botão de alternância (`#switch`) adiciona/remove a classe `.light` no elemen
 
 ## 📄 Licença
 
-Este projeto está disponível, ajudar a divulgar suas redes sociais de forma unica.
+Uma forma simples e única de divulgar todas as suas redes sociais em um só lugar.
 
 ---
 
